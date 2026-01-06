@@ -3,11 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Shxdw;Beatmaker+%26+Musician;C%23+Developer+Student;From+Irkutsk%2C+Russia" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://t.me/твой_юзернейм_если_есть">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+
 
 ---
 
