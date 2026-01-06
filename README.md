@@ -34,12 +34,6 @@ Hi! My name is **Danil**. I am an aspiring developer and musician.
 
 </div>
 
----
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shxdw007&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats" />
-  </div>
 
 ---
 
