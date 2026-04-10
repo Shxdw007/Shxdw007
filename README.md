@@ -9,13 +9,25 @@
 
 ### 👨‍💻 About me
 
-Hi! My name is **Danil**. I am an aspiring developer and musician.
- I am studying to become a programmer (Information Systems and programming).
-- I write beats and am fond of music.
-- 💻 Main stack: **C# / .NET**.
- I am currently working on creating an RMM platform and Telegram bots.
-- I love game development and server automation.
+Hi! My name is **Danil**. 
+I'm a **Fullstack .NET Developer** and Information Systems student with a strong passion for building complex, scalable architectures, server automation, and game development. 
+* 🎓 Studying Information Systems and Programming.
+* 💻 Focused on backend development, designing REST APIs, and building desktop/web clients.
+* 🎯 Interested in cybersecurity, secure system design, and network monitoring.
 
+### 🛠 Tech Stack & Tools
+* **Backend:** C#, .NET 8/10, ASP.NET Core, Entity Framework Core
+* **Frontend & Desktop:** WPF, Blazor WebAssembly, HTML, CSS, PHP
+* **Databases:** PostgreSQL, SQL
+* **Architecture:** OOP, 3-Tier Architecture, REST API, DTO patterns
+
+### 🚀 What I'm Currently Working On
+* 📡 **NetSentry:** An RMM (Remote Monitoring and Management) platform featuring a console agent, ASP.NET server, PostgreSQL database, and a WPF dashboard for hardware monitoring.
+* 🎬 **CinemaManager:** A comprehensive 3-tier system with a WPF Admin panel, a secure ASP.NET Core backend, and a public Blazor WebAssembly SPA for ticket booking.
+* 🤖 **Alisa 1.0:** A personal assistant project integrating Yandex Alice with an ASP.NET backend to control PC actions via voice commands.
+* 🎓 **Exam Platform:** A secure testing environment with an integrated anti-cheat system.
+* 💬 Developing various automated Telegram bots.
+📫 **Let's connect:** [https://t.me/shadow_cuth]
 ---
 
 ### 🛠️Technical stack
