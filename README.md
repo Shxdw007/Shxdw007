@@ -30,7 +30,6 @@ I'm a **Fullstack .NET Developer** and Information Systems student with a strong
 📫 **Let's connect:** [https://t.me/shadow_cuth]
 ---
 
-### 🛠️Technical stack
 
 <div align="center">
 
