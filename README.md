@@ -27,9 +27,10 @@ I'm a **Fullstack .NET Developer** and Information Systems student with a strong
 * 🤖 **Alisa 1.0:** A personal assistant project integrating Yandex Alice with an ASP.NET backend to control PC actions via voice commands.
 * 🎓 **Exam Platform:** A secure testing environment with an integrated anti-cheat system.
 * 💬 Developing various automated Telegram bots.
+
+---
 📫 **Let's connect:** [https://t.me/shadow_cuth]
 ---
-
 
 <div align="center">
 
